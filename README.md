@@ -1,5 +1,5 @@
-# Borderlands 4 - Online Save Editor
-Web-based tool for modifying Borderlands 4 (PC) save files.
+# sav edit
+Web-based tool for modifying .sav or .yaml
 
 ## [Online Editor](https://iyre.github.io/bl4-save-tools/)
 
